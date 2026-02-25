@@ -3,8 +3,6 @@
 A relational database system designed to assist detectives and forensic investigators in managing, searching, and cross-referencing suspect information during criminal investigations.
 
 > **Course Project** — Database Course, Al-Maaref University  
-> **Authors:** Nour Merhi & Maryam Morsel  
-> **Instructor:** Dr. Mubarak Mohammad  
 > **Date:** January 3, 2024
 
 ---
